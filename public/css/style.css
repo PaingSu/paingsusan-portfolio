@@ -298,6 +298,27 @@ figure figcaption {
   margin-bottom: 10em;
   clear: both;
 }
+
+#colorlib-hero .home-section {
+  padding: 100px 0;
+  background: #f7f7f7;
+}
+
+#colorlib-hero .intro h1 {
+  font-size: 3rem;
+  margin-top: 100px;
+}
+
+#colorlib-hero .intro h2 {
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+#colorlib-hero .btn-learn {
+  font-size: 1.2rem;
+  padding: 10px 20px;
+}
+
 #colorlib-hero .flexslider {
   border: none;
   z-index: 1;
@@ -386,7 +407,6 @@ figure figcaption {
 #colorlib-hero .flexslider .slider-text > .slider-text-inner h2 {
   font-size: 18px;
   line-height: 1.5;
-  margin-bottom: 30px;
   font-weight: 300;
   font-family: "Quicksand", Arial, sans-serif;
 }
