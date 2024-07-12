@@ -8,7 +8,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "deploy": "gh-pages -d build && gh-pages -d build -d www.paingsusan.com"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "keywords": [],
   "author": "",
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "eslint": "^9.6.0",
+    "gh-pages": "^6.1.1",
     "prettier": "^3.3.2"
   },
   "browserslist": {
