@@ -44,73 +44,86 @@ export const Experience = () => {
                       <strong>• Designed and implemented features:</strong>
                     </p>
                     <p>
-                      <strong>FuelAnalyser - </strong>Developed algorithms and
-                      functionalities in C# for analyzing ethanol, methanol,
-                      denaturant, and water concentrations, providing critical
-                      insights for industrial processes.
+                      <strong>FuelAnalyzer Features Development </strong>
+                      <br />
+                      • Developed modules for fuel concentration analysis with
+                      real-time and normal modes, enhancing operational
+                      flexibility.
+                      <br />
+                      • Implemented a login module for differentiated user
+                      access (admin/demo).
+                      <br />• Impact: Delivered precise fuel analysis, improving
+                      decision-making for customers.
                     </p>
                     <p>
-                      <strong>Spectrometer - </strong>Developed algorithms and
-                      functionalities in C# for analyzing the measurement values
-                      of Wavenumber From and Wavenumber To based on Spectrometer
-                      product numbers.
-                    </p>
-
-                    <p>
-                      <strong>• User-friendly interface development:</strong>
-                    </p>
-                    <p>
-                      Leveraged WPF to create an intuitive user interface
-                      allowing seamless initiation of measurements and real-time
-                      visualization of concentration values.
-                    </p>
-
-                    <p>
-                      <strong>• Data export functionality:</strong>
-                    </p>
-                    <p>
-                      Utilized C# to implement a feature enabling users to save
-                      measurement values to CSV and PDF files for further
-                      analysis, ensuring data accessibility and compatibility.
+                      <strong>Spectrometer Development</strong>
+                      <br />• Designed a user-friendly interface for measurement
+                      settings, including wavenumber range configurations.
+                      <br />
+                      • Developed logic for conditional measurements and
+                      enhanced the Admin Instrument Settings module.
+                      <br />• Impact: Delivered reliable measurements and
+                      streamlined user configuration.
                     </p>
 
                     <p>
-                      <strong>• Self-diagnostics module:</strong>
-                    </p>
-                    <p>
-                      <strong>FuelAnalyser - </strong>Engineered a
-                      self-diagnostics module in C# to assess instrument
-                      standardization, ensuring the accuracy and reliability of
-                      results in the WPF application.
-                    </p>
-                    <p>
-                      <strong>Spectrometer - </strong>Integrated functionalities
-                      similar to the fuel analyzer while adding features for
-                      user-uploaded background files and scanning new
-                      backgrounds.
+                      <strong>WI Model E Cost Savings Calculator</strong>
+                      <br />• Built a multi-language cost calculator in C# .NET
+                      (English, Spanish, Chinese, and Indonesian).
+                      <br />• Impact: Expanded global reach and enhanced
+                      communication for international sales.
                     </p>
 
                     <p>
-                      <strong>• Custom dialog development:</strong>
-                    </p>
-                    <p>
-                      Developed a custom dialog in WPF and C# to address
-                      usability concerns on industrial PCs, allowing users to
-                      easily change the save location for exported data. Also
-                      fixed the UI design and form dialog to be responsible for
-                      touch screen pcs.
+                      <strong>Company Website Development</strong>
+                      <br />• Developed a modern, responsive website using
+                      React, with animations, EmailJS integration, and a CI/CD
+                      pipeline.
+                      <br />• Impact: Strengthened online presence and automated
+                      deployment processes.
                     </p>
 
                     <p>
-                      <strong>• Integration of livechart functionality:</strong>
+                      <strong>Admin Module with Advanced Features</strong>
+                      <br />• Developed tools for secure data control and
+                      database management.
+                      <br />• Integrated multilingual support for FuelAnalyzer.
+                      <br />• Impact: Enhanced security and simplified internal
+                      operations.
                     </p>
                     <p>
-                      Integrated livechart functionality using C# within the WPF
-                      application to display scan results of air backgrounds,
-                      enhancing user visualization and understanding of data.
+                      <strong>
+                        Validation, Error Handling, and Self-Diagnostics
+                      </strong>
+                      <br />
+                      • Improved validation, error messaging, and diagnostics
+                      modules in both FuelAnalyzer and Spectrometer.
+                      <br />• Impact: Reduced errors and improved system
+                      reliability.
                     </p>
 
                     <p>
+                      <strong>
+                        History Tracking, Data Export, and Database Connectivity
+                      </strong>
+                      <br />
+                      • Implemented historical data tracking, export
+                      functionality (CSV/PDF/SPC), and database integration.
+                      <br />• Impact: Enhanced data management and reporting
+                      capabilities.
+                    </p>
+
+                    <p>
+                      <strong>Team and Project Leadership</strong>
+                      <br />• Led a software team, mentored developers and
+                      interns, and ensured project milestones were met.
+                      <br />• Managed version control with Git, ensuring
+                      efficient collaboration.
+                      <br />• Delivered the FuelAnalyzer and Spectrometer
+                      projects on time, with global deployment.
+                    </p>
+
+                    {/* <p>
                       <strong>• Database connectivity:</strong>
                     </p>
                     <p>
@@ -162,7 +175,7 @@ export const Experience = () => {
                       Leading the development of a company website using REACT
                       and a mini-program for internal chemical and electrical
                       engineer calculator applications (C#.Net).
-                    </p>
+                    </p> */}
                   </div>
                 </div>
               </article>
